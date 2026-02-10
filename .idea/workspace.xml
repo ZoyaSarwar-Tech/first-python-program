@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b43c62e4-42c8-4373-ac58-a1f65e9a4f29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable.py" afterDir="false" />
-    </list>
+    <list default="true" id="b43c62e4-42c8-4373-ac58-a1f65e9a4f29" name="Changes" comment="First Python Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1770734948085</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Python Program">
+      <option name="closed" value="true" />
+      <created>1770745538858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770745538858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Python Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Python Program" />
   </component>
 </project>
